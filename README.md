@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Hi! I’m Ali, a full-stack developer in training with strong interest in building modern web applications.
 * I’m interested in Machine Learning and Software Engineering
+<!--
 * 🌱 I’m currently learning latest machine learning approaches and looking to build my own product
-
+-->
 
 
 # 💻 Tech Stack:
